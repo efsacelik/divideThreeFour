@@ -1,5 +1,5 @@
 # divideThreeFour
-Write a program that calculates the average of numbers divisible by 3 and 4 from 0 to the entered number using Java loops.
+A program that calculates the average of numbers divisible by 3 and 4 from 0 to the entered number using Java loops.
 Scanner input = new Scanner(System.in);
 		
 		System.out.print("Enter an integer:");
